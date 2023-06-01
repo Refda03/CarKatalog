@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Car Katalog</string>
+    <string name="nama_profile">Mohamad Rehza Efda</string>
+    <string name="email">refda327@gmail.com</string>
+    <string name="github">Github</string>
+    <string name="car_name">Car Name</string>
+    <string name="description">Description</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+    <string name="imageview_desc">ImageView Desc</string>
+    <string-array name="data_name">
+        <item>2023 Odyssey</item>
+        <item>2023 Ridgeline</item>
+        <item>2023 Pilot</item>
+        <item>2022 HR-V</item>
+        <item>2023 Civic Type R</item>
+        <item>2023 HR-V</item>
+        <item>BMW i7</item>
+        <item>BMW X4</item>
+        <item>BMW X5</item>
+        <item>BMW X4 M</item>
+        <item>BMW M3 Sedan</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>The first-generation Odyssey was a raised wagon from Honda that was launched in Japan and North America in 1994. Based on the Accord sedan, it was offered with an optional 4WD (with RA2 and RA4 chassis), and from 1997 with a 3.0-litre V6 J30A engine with the RA5 chassis code (front-wheel drive only).</item>
+        <item>The Ridgeline is a four-door pickup truck with five seats. Cloth upholstery and manually adjustable front seats are standard. Available upgrades include leather upholstery, heated and power-adjustable front seats and a heated steering wheel.</item>
+        <item>The Honda Pilot is a mid-size crossover SUV with three-row seating manufactured by Honda since 2002. Primarily aimed at the North American market, the Pilot is the largest SUV produced by Honda. Pilots are currently manufactured in Lincoln, Alabama, and the Pilot was produced in Alliston, Ontario until April 2007.</item>
+        <item>The first generation HR-V was based on the Honda Logo. It was marketed from 1999 to 2006 in Europe, Japan and select Asia-Pacific markets – and featured three doors (1999–2003) or five doors (1999–2006). The two configurations were internally designated GH2 and GH4 respectively.</item>
+        <item>The Honda Civic (Japanese: ホンダ・シビック, Hepburn: Honda Shibikku) is a series of automobiles manufactured by Honda since 1972. Since 2000, the Civic has been categorized as a compact car, while previously it occupied the subcompact class. As of 2021, the Civic is positioned between the Honda Fit/City and Honda Accord in Honda global car line-up.</item>
+        <item>The first generation HR-V was based on the Honda Logo. It was marketed from 1999 to 2006 in Europe, Japan and select Asia-Pacific markets – and featured three doors (1999–2003) or five doors (1999–2006). The two configurations were internally designated GH2 and GH4 respectively</item>
+        <item>The new BMW i7 combines a groundbreaking design language, powerful driving dynamics and the latest generation of technological innovations. The VIP lounge experience in the spacious interior fascinates the driver as well as the passengers with details such as the BMW Interaction Bar or the 31.3</item>
+        <item>BMW X4 has a more progressive presence than ever. The especially angular kidney grille, a redesigned bumper with vertical air inlets and full LED headlights lowered by 10 mm lend it a maximum degree of modernity and athleticism from every angle.</item>
+        <item>BMW X5 has a more progressive presence than ever. The especially angular kidney grille, a redesigned bumper with vertical air inlets and full LED headlights lowered by 10 mm lend it a maximum degree of modernity and athleticism from every angle.</item>
+        <item>BMW X4 M has a more progressive presence than ever. The especially angular kidney grille, a redesigned bumper with vertical air inlets and full LED headlights lowered by 10 mm lend it a maximum degree of modernity and athleticism from every angle.</item>
+        <item>The new BMW M3 Sedan combines a groundbreaking design language, powerful driving dynamics and the latest generation of technological innovations. The VIP lounge experience in the spacious interior fascinates the driver as well as the passengers with details such as the BMW Interaction Bar or the 31.3</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/car1</item>
+        <item>@drawable/car2</item>
+        <item>@drawable/car3</item>
+        <item>@drawable/car4</item>
+        <item>@drawable/car5</item>
+        <item>@drawable/car6</item>
+    </integer-array>
+    <string name="publish">DiPublish oleh</string>
+    <string name="add_image_photos_desc">Add image photos</string>
+</resources>
